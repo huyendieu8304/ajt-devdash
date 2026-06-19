@@ -161,7 +161,6 @@ function renderDetailSection(users: User[], posts: Post[], selectedUserId: numbe
         `;
     }
 
-    //todo hinfh nhuw chuwa toi uwu lam
     const user = users.find(u => u.id === selectedUserId);
     const userPosts = posts.filter(p => p.userId === selectedUserId);
 
