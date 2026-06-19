@@ -4,7 +4,7 @@
 
 The application focuses on code quality, strict modularity, and compile-time type safety to provide a robust and predictable state architecture.
 
-👉 **Live Demo:** [devdash](https://huyendieu8304.github.io/ajt-devdash/)
+👉 **Live Demo:** [devdash](https://devdash.hvh.homes)
 ---
 
 ## Screenshots
